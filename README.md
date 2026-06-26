@@ -1,5 +1,9 @@
 # Qubic Proposal: QRaffle — Asset Raffle Extension
 
+## Available Options
+ - Option 0: No, do not approve the Qraffle revisions.
+ - Option 1: Yes, approve the Qraffle revisions (revert the listed restrictions).
+
 ## 1. Summary
 
 This proposal extends the existing **QRAFFLE** smart contract with a new feature called **Asset Raffle**: a permissionless mechanism that lets any DAO member raffle a *bundle* of asset shares (issued tokens and/or smart-contract shares) against Qu tickets, with a creator-defined reserve price and a fair, on-chain weighted winner selection at the end of the epoch. If the reserve is met, the bundle is delivered to a single winner and 80% of the Qu pool goes to the creator; if not, every buyer is refunded in full and the bundle is returned to the creator.
