@@ -1,8 +1,8 @@
 # Qubic Proposal: QRaffle — Asset Raffle Extension
 
 ## Available Options
- - Option 0: No, do not approve the Qraffle revisions.
- - Option 1: Yes, approve the Qraffle revisions (revert the listed restrictions).
+ - Option 0: No, do not approve the new Qraffle asset raffles.
+ - Option 1: Yes, approve the new Qraffle asset raffles.
 
 ## 1. Summary
 
